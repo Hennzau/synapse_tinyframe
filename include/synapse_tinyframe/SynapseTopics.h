@@ -11,6 +11,9 @@ extern "C" {
 #define SYNAPSE_STATUS_TOPIC 1
 #define SYNAPSE_STATUS_TYPE Status
 
+#define SYNAPSE_UPTIME_TOPIC 1
+#define SYNAPSE_UPTIME_TYPE UpTime
+
 #define SYNAPSE_SIM_CLOCK_TOPIC 63
 #define SYNAPSE_SIM_CLOCK_TYPE SimClock
 
